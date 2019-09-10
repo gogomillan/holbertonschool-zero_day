@@ -1,3 +1,3 @@
-## Este es el segundo proyecto
+## This is the second project
 
 We will work on emacs editor command
